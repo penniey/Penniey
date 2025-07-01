@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently studing at **Södertörns Högskola**
 
-- 👨‍💻 All of my projects are available at [[UNDER CONSTRUCTION]]([UNDER CONSTRUCTION])
+- 👨‍💻 All of my projects are available at [IN CONSTRUCTION]
 
 - 📝 I regularly share my dev vlogs [https://www.youtube.com/@StellarfishGameStudio](https://www.youtube.com/@StellarfishGameStudio)
 
