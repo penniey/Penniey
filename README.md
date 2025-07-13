@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on developing [Glorious Golf & unNamed FPS](https://store.steampowered.com/app/3757360/Glorious_Golf/)
 
-- 🌱 I’m currently studing at **Södertörns Högskola**
+- 🌱 I’m currently studying at **Södertörns Högskola**
 
 - 👨‍💻 All of my projects are available at [IN CONSTRUCTION]
 
