@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently studying at **Södertörns Högskola**
 
-- 👨‍💻 All of my projects are available at [(Portfolio)](https://penniey.com/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://penniey.com/)
 
 - 📝 I regularly share my dev vlogs [https://www.youtube.com/@StellarfishGameStudio](https://www.youtube.com/@StellarfishGameStudio)
 
