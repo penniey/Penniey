@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Penny</h1>
-<h3 align="center">A passionate frontend developer from Stockholm Sweden</h3>
+<h3 align="center">A passionate full stack developer from Stockholm Sweden</h3>
 
 - 🔭 I’m currently working on developing [Glorious Golf & unNamed FPS](https://store.steampowered.com/app/3757360/Glorious_Golf/)
 
