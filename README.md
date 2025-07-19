@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Penny</h1>
 <h3 align="center">A passionate frontend developer from Stockholm Sweden</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=penniey&label=Profile%20views&color=0e75b6&style=flat" alt="penniey" /> </p>
-
-<p align="left"> <a href="https://twitter.com/flowingeuw" target="blank"><img src="https://img.shields.io/twitter/follow/flowingeuw?logo=twitter&style=for-the-badge" alt="flowingeuw" /></a> </p>
-
 - 🔭 I’m currently working on developing [Glorious Golf & unNamed FPS](https://store.steampowered.com/app/3757360/Glorious_Golf/)
 
 - 🌱 I’m currently studying at **Södertörns Högskola**
