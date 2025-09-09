@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Penny</h1>
 <h3 align="left">A passionate full stack developer from Stockholm Sweden</h3>
 
-- 🔭 I’m currently working on developing [Glorious Golf & unNamed FPS](https://store.steampowered.com/app/3757360/Glorious_Golf/)
+- 🔭 I’m currently working on developing [Glorious Golf & SYNTAX ER||](https://store.steampowered.com/app/3757360/Glorious_Golf/)
 
 - 🌱 I’m currently studying at **Södertörns Högskola**
 
