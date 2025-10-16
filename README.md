@@ -1,6 +1,7 @@
-<h1 align="center">Back-end developer, working on games </h3>
+<h1 align="center">Back-end developer, working on games </h1>
 
-Contact **Discord: Penniey, Mail: Hugo2@boreback.com**
+<h3 align="left"> Contact me: </h3>
+**Discord: Penniey, Mail: Hugo2@boreback.com**
 [Portfolio](https://penniey.com/)
 
 
