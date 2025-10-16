@@ -1,21 +1,11 @@
-<h1 align="center">Hi 👋, I'm Penny</h1>
-<h3 align="left">A passionate full stack developer from Stockholm Sweden</h3>
+<h1 align="center">Back-end developer, working on games </h3>
 
-- 🔭 I’m currently working on developing [Glorious Golf & SYNTAX ER||](https://store.steampowered.com/app/3757360/Glorious_Golf/)
-
-- 🌱 I’m currently studying at **Södertörns Högskola**
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://penniey.com/)
-
-- 📝 I regularly share my dev vlogs [https://www.youtube.com/@StellarfishGameStudio](https://www.youtube.com/@StellarfishGameStudio)
-
-- 💬 Ask me about **C#, Python or Unity!**
-
-- 📫 How to reach me **Discord: Penniey, Mail: Hugo2@boreback.com**
+Contact **Discord: Penniey, Mail: Hugo2@boreback.com**
+[Portfolio](https://penniey.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/flowingeuw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="flowingeuw" height="30" width="40" /></a>
+<a href="https://twitter.com/peneuw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="flowingeuw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
