@@ -1,4 +1,4 @@
-<h1 align="center">Back-end developer, working on games</h1>
+<h1 align="center">Software Engineer / Game Dev / C# & Cloud </h1>
 
 <h3 align="left">Contact me:</h3>
 <p><strong>Discord:</strong> Penniey<br>
